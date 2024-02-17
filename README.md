@@ -1,5 +1,5 @@
 ## Space Shooter
-This project represents a space shooting game developed during the Digital Game Development course at the university.
+This project represents a 2D space shooting game developed during the Digital Game Development course at the university.
 
 ## Features
 - Intense space shooting action
