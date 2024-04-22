@@ -8,7 +8,12 @@ This project represents a 2D space shooting game developed during the Digital Ga
 - High scores tracking
 
 ## Screenshot 
+![Image Alt text](/img1.png)
+
 ![Image Alt text](/img.png)
+
+![Image Alt text](/img.png)
+
 
 ## Technologies
 - Unity game engine
