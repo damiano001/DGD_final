@@ -11,7 +11,7 @@ This project represents a 2D space shooting game developed during the Digital Ga
 
 <br>
 
-- Main page
+- Start menu
   
 ![Image Alt text](/img0.png)
 
