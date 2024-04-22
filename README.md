@@ -8,12 +8,14 @@ This project represents a 2D space shooting game developed during the Digital Ga
 - High scores tracking
 
 ## Screenshot 
-
-
+<br>
+-Main page 
 ![Image Alt text](/img0.png)
 
+-Game 
 ![Image Alt text](/img.png)
 
+-Game over menu
 ![Image Alt text](/img2.png)
 
 
