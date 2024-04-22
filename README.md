@@ -12,7 +12,7 @@ This project represents a 2D space shooting game developed during the Digital Ga
 
 ![Image Alt text](/img.png)
 
-![Image Alt text](/img.png)
+![Image Alt text](/img2.png)
 
 
 ## Technologies
